@@ -13,7 +13,7 @@ docker images -a
 ```
 To spin up a container from image 
 ```
-docker run -rm --detach --publish 8080:80 --name containername imagename
+docker run --rm --detach --publish 8080:80 --name containername imagename
 ```
 
 To list containers
