@@ -34,3 +34,13 @@ To delete image
 ```
 docker rmi imagename
 ```
+
+
+## Copyright notice
+
+Images used in this demo were fetched under Creative Commons licence, I do not hold copyrights for any of them. 
+
+Star : [pngimg.com CC-4.0 BY-NC] (http://pngimg.com/download/41531)
+Car : [freeiconspng.com, Author: Ahkâm] (https://www.freeiconspng.com/img/34860)
+Background: [Pixabay, Author: BarbaraALane, CC0] (https://pixabay.com/fi/liitutaulu-tausta-rakenne-1337809/)
+
